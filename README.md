@@ -12,6 +12,10 @@
 
 ## R
 ----------------------
+### El lenguaje R
 - Sitio oficial de R: [The R Project for Statistical Computing](https://www.r-project.org/)
+
+### R geoespacial
+- Libro _https://geocompr.robinlovelace.net/_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 
 
