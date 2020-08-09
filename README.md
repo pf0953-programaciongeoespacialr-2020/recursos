@@ -12,12 +12,10 @@
 ### R Markdown
 - [Sitio oficial de R Markdown](https://rmarkdown.rstudio.com/)
 
-## R
+## R y RStudio
 ----------------------
-### El lenguaje R
 - Sitio oficial de R: [The R Project for Statistical Computing](https://www.r-project.org/)
-
-### R geoespacial
+- Sitio oficial de RStudio: [RStudio - Open source & professional software for data science teams](https://rstudio.com/)
 - Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 
 
