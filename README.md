@@ -7,7 +7,7 @@
 - Ficha de ayuda de GitHub Markdown: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Tutorial sobre Markdown: [Markdown Tutorial](https://www.markdowntutorial.com/)
 - Sitio oficial de R Markdown: [R Markdown](https://rmarkdown.rstudio.com/)
-- Libro _R Markdown: The Definitive Guide_, de Y. Xie et al.:[R Markdown: The Definitive Guide](R Markdown: The Definitive Guide)
+- Libro _R Markdown: The Definitive Guide_, de Y. Xie et al.: [R Markdown: The Definitive Guide](R Markdown: The Definitive Guide)
 
 ## R y RStudio
 ----------------------
