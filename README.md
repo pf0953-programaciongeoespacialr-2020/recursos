@@ -17,7 +17,7 @@
 
 ## Otros
 ----------------------
-- Lista de cuentas de Twitter: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
+- Lista de cuentas de Twitter relacionadas con datos geoespaciales: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
 - Cuenta en Twitter de Alison Presmanes Hill: [Alison Presmanes Hill (@apreshill)](https://twitter.com/apreshill)
 - Cuenta en Twitter de Edzer Pebesma: [Edzer Pebesma (@edzerpebesma)](https://twitter.com/edzerpebesma)
 - Cuenta en Twitter de Jakub Nowosad: [Jakub Nowosad (@jakub_nowosad)](https://twitter.com/jakub_nowosad)
