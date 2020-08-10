@@ -17,7 +17,7 @@
 
 ## Otros
 ----------------------
-- Lista de cuentas de Twitter relacionadas con procesamiento de datos geoespaciales en R: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
+- Lista de cuentas de Twitter relacionadas con procesamiento de datos geoespaciales: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
     - Alison Presmanes Hill: [Alison Presmanes Hill (@apreshill)](https://twitter.com/apreshill)
     - Angela Li: [Angela Li (@CivicAngela)](https://twitter.com/CivicAngela)
     - Desirée De Leon: [Desirée De Leon (@dcossyle)](https://twitter.com/dcossyle)
