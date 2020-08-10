@@ -24,4 +24,3 @@
     - Edzer Pebesma: [Edzer Pebesma (@edzerpebesma)](https://twitter.com/edzerpebesma)
     - Jakub Nowosad: [Jakub Nowosad (@jakub_nowosad)](https://twitter.com/jakub_nowosad)
     - Robin Lovelace: [Robin Lovelace (@robinlovelace)](https://twitter.com/robinlovelace)
-    - Victor Olaya: [Victor Olaya (@volayaf)](https://twitter.com/volayaf)
