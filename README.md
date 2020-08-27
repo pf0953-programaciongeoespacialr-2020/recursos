@@ -12,6 +12,7 @@
 ## R y RStudio
 ----------------------
 - Sitio oficial de R: [The R Project for Statistical Computing](https://www.r-project.org/)
+- Documentación y manuales de R: [R Documentation and manuals - R Documentation](https://www.rdocumentation.org/)
 - Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - Sitio oficial de RStudio: [RStudio - Open source & professional software for data science teams](https://rstudio.com/)
 - Guía de instalación de R y RStudio: [(Tutorial) How to Install R on Windows, Mac OS X, and Ubuntu - DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
