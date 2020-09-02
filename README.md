@@ -30,6 +30,7 @@
 #### Base
 - Sitio oficial de graphics: [R: The R Graphics Package](http://search.r-project.org/R/library/graphics/html/graphics-package.html)
 #### Tidyverse
+- Sitio oficial de dplyr: [A Grammar of Data Manipulation - dplyr](https://dplyr.tidyverse.org/)
 - Sitio oficial de ggplot2: [Create Elegant Data Visualisations Using the Grammar of Graphics - ggplot2](https://ggplot2.tidyverse.org/)
 
 
