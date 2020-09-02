@@ -2,7 +2,7 @@
 
 ## Gráficos en R
 ----------------------
-- Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://bookdown.org/yihui/rmarkdown/)
+- Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://r-graphics.org/)
 
 ## Markdown y R Markdown
 ----------------------
@@ -11,7 +11,7 @@
 - Ficha de ayuda de GitHub Markdown: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Tutorial sobre Markdown: [Markdown Tutorial](https://www.markdowntutorial.com/)
 - Sitio oficial de R Markdown: [R Markdown](https://rmarkdown.rstudio.com/)
-- Libro _R Markdown: The Definitive Guide_, de Y. Xie et al.: [R Markdown: The Definitive Guide]()
+- Libro _R Markdown: The Definitive Guide_, de Y. Xie et al.: [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ## R y RStudio
 ----------------------
