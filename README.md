@@ -3,6 +3,8 @@
 ## Gráficos en R
 ----------------------
 - Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://r-graphics.org/)
+- Sitio web sobre visualización de datos: [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
+- Libro _The Grammar of Graphics_, de Leland Wilkinson et al.: [The Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 
 ## Markdown y R Markdown
 ----------------------
