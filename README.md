@@ -1,8 +1,7 @@
 # Recursos
 
-## Gráficos en R
+## Gráficación
 ----------------------
-- Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://r-graphics.org/)
 - Sitio web sobre visualización de datos: [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
 - Libro _The Grammar of Graphics_, de Leland Wilkinson et al.: [The Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 
@@ -21,6 +20,7 @@
 - Documentación y manuales de R: [R Documentation and manuals - R Documentation](https://www.rdocumentation.org/)
 - Documentación de paquetes y funciones de R: [R Package Documentation](https://rdrr.io/)
 - Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://r-graphics.org/)
 - Sitio oficial de RStudio: [RStudio - Open source & professional software for data science teams](https://rstudio.com/)
 - Guía de instalación de R y RStudio: [(Tutorial) How to Install R on Windows, Mac OS X, and Ubuntu - DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
 - Taller: [Manejo de datos geográficos mediante R y RStudio - II Jornada de SIG y TD libres de la UCR - 2020](https://taller-r-jornadas-sigtd-2020.github.io/)
