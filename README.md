@@ -3,7 +3,7 @@
 ## Gráficación
 ----------------------
 - Libro _The Grammar of Graphics_, de Leland Wilkinson et al.: [The Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
-- Sitio web sobre visualización de datos: [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
+- Sitio web sobre visualización de datos: [From data to Viz - Find the graphic you need](https://www.data-to-viz.com/)
 
 ## Markdown y R Markdown
 ----------------------
