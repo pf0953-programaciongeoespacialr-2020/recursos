@@ -13,10 +13,12 @@
 - Tutorial sobre Markdown: [Markdown Tutorial](https://www.markdowntutorial.com/)
 - Sitio oficial de R Markdown: [R Markdown](https://rmarkdown.rstudio.com/)
 - Libro _R Markdown: The Definitive Guide_, de Y. Xie et al.: [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- Libro _R Markdown Cookbook_, de Y. Xie et al.: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 ## R y RStudio
 ----------------------
 - Sitio oficial de R: [The R Project for Statistical Computing](https://www.r-project.org/)
+- Definición del lenguaje R: [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
 - Documentación y manuales de R: [R Documentation and manuals - R Documentation](https://www.rdocumentation.org/)
 - Documentación de paquetes y funciones de R: [R Package Documentation](https://rdrr.io/)
 - Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
