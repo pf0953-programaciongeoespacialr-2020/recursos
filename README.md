@@ -34,6 +34,8 @@
 #### Tidyverse
 - Sitio oficial de dplyr: [A Grammar of Data Manipulation - dplyr](https://dplyr.tidyverse.org/)
 - Sitio oficial de ggplot2: [Create Elegant Data Visualisations Using the Grammar of Graphics - ggplot2](https://ggplot2.tidyverse.org/)
+#### Otros
+- Sitio oficial de plotly: [Plotly: The front-end for ML and data science models](https://plotly.com/)
 
 
 ## Otros
