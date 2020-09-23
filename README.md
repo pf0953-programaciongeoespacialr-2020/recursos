@@ -1,9 +1,23 @@
 # Recursos
 
+## GDAL
+----------------------
+- Sitio oficial de GDAL: [GDAL](https://gdal.org/)
+
+## Git y GitHub
+----------------------
+- Sitio oficial de Git: [Git](https://git-scm.com/)
+- Sitio oficial de GitHub: [GitHub](https://github.com/)
+
 ## Gráficación
 ----------------------
 - Libro _The Grammar of Graphics_, de Leland Wilkinson et al.: [The Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 - Sitio web sobre visualización de datos: [From data to Viz - Find the graphic you need](https://www.data-to-viz.com/)
+
+## Interfaz de línea de comandos del sistema operativo
+------------------------------------------------------
+- Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
+- Algunos comandos básicos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Markdown y R Markdown
 ----------------------
