@@ -35,12 +35,17 @@
 - Definición del lenguaje R: [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
 - Documentación y manuales de R: [R Documentation and manuals - R Documentation](https://www.rdocumentation.org/)
 - Documentación de paquetes y funciones de R: [R Package Documentation](https://rdrr.io/)
-- Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - Libro _R Graphics Cookbook_, de W. Chang: [R Graphics Cookbook](https://r-graphics.org/)
 - Sitio oficial de RStudio: [RStudio - Open source & professional software for data science teams](https://rstudio.com/)
 - Guía de instalación de R y RStudio: [(Tutorial) How to Install R on Windows, Mac OS X, and Ubuntu - DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+
+## R geoespacial
+----------------------
+- Libro _Geocomputation with R_, de R. Lovelace et al.: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - Taller: [Manejo de datos geográficos mediante R y RStudio - II Jornada de SIG y TD libres de la UCR - 2020](https://taller-r-jornadas-sigtd-2020.github.io/)
 - Curso: [GF-0604 Procesamiento de datos geográficos - Escuela de Geografía de la UCR - 2020](https://geoprocesamiento-2020i.github.io/)
+- Presentación: [Why R? Webinar 004 - Robin Lovelace + Jakub Nowosad - Recent changes in R spatial](https://www.youtube.com/watch?v=Va0STgco7-4)
+
 
 ### Paquetes
 #### Base
