@@ -55,7 +55,7 @@
 - Sitio web de ggplot2: [Create Elegant Data Visualisations Using the Grammar of Graphics - ggplot2](https://ggplot2.tidyverse.org/)
 #### Geoespacial
 - Sitio web de sf: [Simple Features for R - sf](https://r-spatial.github.io/sf/)
-- Sitio web de raster: [The raster package -- R Spatial](https://rspatial.org/raster/pkg/)
+- Sitio web de raster: [Spatial Data Science with R -- R Spatial](https://rspatial.org/raster/)
 - Sitio web de terra: [Spatial Data Science with R and “terra” -- R Spatial](https://rspatial.org/terra/)
 #### Otros
 - Sitio oficial de plotly: [Plotly: The front-end for ML and data science models](https://plotly.com/)
