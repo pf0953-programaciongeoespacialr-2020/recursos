@@ -56,6 +56,7 @@
 #### Geoespacial
 - Sitio web de sf: [Simple Features for R - sf](https://r-spatial.github.io/sf/)
 - Sitio web de raster: [The raster package -- R Spatial](https://rspatial.org/raster/pkg/)
+- Sitio web de terra: [Spatial Data Science with R and “terra” -- R Spatial](https://rspatial.org/terra/)
 #### Otros
 - Sitio oficial de plotly: [Plotly: The front-end for ML and data science models](https://plotly.com/)
 
